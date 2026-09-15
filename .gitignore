@@ -1,0 +1,6 @@
+img_align_celeba/
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+.DS_Store
